@@ -3,11 +3,11 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-webpack-boilerplate using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-bootstrap-boilerplate using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-webpack-boilerplate
+npm install -g generator-bootstrap-boilerplate
 ```
 
 Then generate your new project:
@@ -28,9 +28,9 @@ yo webpack-boilerplate
 MIT © [Oscar Lijó Busto](Óscar Lijó)
 
 
-[npm-image]: https://badge.fury.io/js/generator-webpack-boilerplate.svg
-[npm-url]: https://npmjs.org/package/generator-webpack-boilerplate
-[travis-image]: https://travis-ci.org/oscarlijo/generator-webpack-boilerplate.svg?branch=master
-[travis-url]: https://travis-ci.org/oscarlijo/generator-webpack-boilerplate
-[daviddm-image]: https://david-dm.org/oscarlijo/generator-webpack-boilerplate.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/oscarlijo/generator-webpack-boilerplate
+[npm-image]: https://badge.fury.io/js/generator-bootstrap-boilerplate.svg
+[npm-url]: https://npmjs.org/package/generator-bootstrap-boilerplate
+[travis-image]: https://travis-ci.org/oscarlijo/generator-bootstrap-boilerplate.svg?branch=master
+[travis-url]: https://travis-ci.org/oscarlijo/generator-bootstrap-boilerplate
+[daviddm-image]: https://david-dm.org/oscarlijo/generator-bootstrap-boilerplate.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/oscarlijo/generator-bootstrap-boilerplate

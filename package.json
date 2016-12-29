@@ -8,6 +8,9 @@
     "email": "oscar.lijo@gmail.com",
     "url": "www.oscarlijo.com"
   },
+  "maintainers": [
+    "Oscar Lijó Busto <oscar.lijo@gmail.com>"
+  ],
   "files": [
     "generators"
   ],
@@ -41,7 +44,10 @@
       "mocha": true
     }
   },
-  "repository": "oscarlijo/generator-bootstrap-boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscarlijo/generator-bootstrap-boilerplate.git"
+  },
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
