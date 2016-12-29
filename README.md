@@ -1,5 +1,5 @@
-# generator-webpack-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> A webpack boilerplate
+# generator-bootstrap-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+> A bootstrap boilerplate
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm install -g generator-bootstrap-boilerplate
 Then generate your new project:
 
 ```bash
-yo webpack-boilerplate
+yo bootstrap-boilerplate
 ```
 
 ## Getting To Know Yeoman
